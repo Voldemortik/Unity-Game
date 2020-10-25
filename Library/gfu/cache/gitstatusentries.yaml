@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-10-25T10:18:08.386-07:00
+  initializedAtString: 2020-10-25T09:23:59.549-07:00
+  entries:
+  - path: Assets\Camere_Auto_Movement.cs
+    fullPath: C:\Users\Anonymous\Desktop\New folder\Unity-Game\Assets\Camere_Auto_Movement.cs
+    projectPath: Assets\Camere_Auto_Movement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Camere_Auto_Movement.cs.meta
+    fullPath: C:\Users\Anonymous\Desktop\New folder\Unity-Game\Assets\Camere_Auto_Movement.cs.meta
+    projectPath: Assets\Camere_Auto_Movement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MainMenu.cs
+    fullPath: C:\Users\Anonymous\Desktop\New folder\Unity-Game\Assets\MainMenu.cs
+    projectPath: Assets\MainMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MainMenu.cs.meta
+    fullPath: C:\Users\Anonymous\Desktop\New folder\Unity-Game\Assets\MainMenu.cs.meta
+    projectPath: Assets\MainMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Anonymous\Desktop\New folder\Unity-Game\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity-Game
+    fullPath: C:\Users\Anonymous\Desktop\New folder\Unity-Game\Unity-Game
+    projectPath: Unity-Game
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
